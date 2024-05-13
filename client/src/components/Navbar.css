@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+    justify-content: space-between;
+    /* padding: 4.2rem 2.4rem; */
+    /* max-width: 140rem; */
+}
+.container .brand-logo a{
+    text-decoration: none;
+}
+.container nav ul{
+    display: flex;
+    gap: 3.2rem;
+}
+.container ul li{
+    list-style: none;
+}
+.container ul li a{
+    text-decoration: none;
+}
